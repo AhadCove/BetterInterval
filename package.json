@@ -1,13 +1,13 @@
 {
-  "name": "bettertimeout",
+  "name": "betterinterval",
   "version": "0.0.1",
-  "description": "A better way to handle timeouts",
+  "description": "A better way to handle intervals",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "timeout",
+    "interval",
     "javascript",
     "node"
   ],
