@@ -1,0 +1,16 @@
+{
+  "name": "bettertimeout",
+  "version": "0.0.1",
+  "description": "A better way to handle timeouts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "timeout",
+    "javascript",
+    "node"
+  ],
+  "author": "ahadcove",
+  "license": "ISC"
+}
